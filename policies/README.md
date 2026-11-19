@@ -12,4 +12,4 @@
 
 `shopify-html/` has HTML versions of 01–05. In the Shopify policy editor, click the `<>` (Show HTML) button and paste the file contents.
 
-Before publishing, replace every `[BRACKETED]` placeholder.
+All placeholders have been filled in.

@@ -4,7 +4,7 @@
 
 ## Overview
 
-This website, **charlieslamps.store** (the "Site"), is operated by Charlie's Lamps ("Charlie's Lamps," "we," "us," or "our"). [LEGAL BUSINESS NAME, e.g. "Charlie's Lamps LLC"] is the legal entity that runs the store. We offer the Site and all information, tools, products, and services on it to you, the user, on the condition that you accept these Terms of Service ("Terms").
+This website, **charlieslamps.store** (the "Site"), is operated by Charlie's Lamps ("Charlie's Lamps," "we," "us," or "our"). We offer the Site and all information, tools, products, and services on it to you, the user, on the condition that you accept these Terms of Service ("Terms").
 
 By visiting the Site, placing an order, or buying a product from us, you agree to these Terms, including the policies they reference: our **Refund & Return Policy**, **Shipping Policy**, and **Privacy Policy**, all of which are part of these Terms. If you do not agree, do not use the Site or place an order.
 
@@ -42,7 +42,7 @@ Minor variations like these, including differences between AI-generated images a
 
 ## 5. Pricing and Availability
 
-All prices are listed in [CURRENCY, e.g. U.S. dollars (USD)]. We may change prices at any time without notice, but changes will not affect orders you have already placed. We may limit quantities, discontinue products, or refuse or cancel any order at our discretion, including orders that appear to be fraudulent or placed by resellers. If we cancel an order after you have been charged, we will refund the full amount to your original payment method.
+All prices are listed in the currency shown at checkout. We may change prices at any time without notice, but changes will not affect orders you have already placed. We may limit quantities, discontinue products, or refuse or cancel any order at our discretion, including orders that appear to be fraudulent or placed by resellers. If we cancel an order after you have been charged, we will refund the full amount to your original payment method.
 
 If a product is listed at an incorrect price because of a typo or system error, we may cancel the order and refund you, even after you receive an order confirmation.
 
@@ -108,7 +108,7 @@ All content on the Site, including text, images, logos, product photos, videos, 
 
 **Please read this section carefully. It affects how disputes are resolved.**
 
-Except for claims that qualify for small claims court, you and Charlie's Lamps agree that any dispute arising from these Terms, the Site, or any purchase will be resolved by binding individual arbitration rather than in court. Arbitration will be administered by [ARBITRATION PROVIDER, e.g. the American Arbitration Association] under its consumer rules, and will take place in [COUNTY, STATE] or online/by phone.
+To the extent permitted by applicable law, and except for claims that qualify for small claims court, you and Charlie's Lamps agree that any dispute arising from these Terms, the Site, or any purchase will be resolved by binding individual arbitration rather than in court. Arbitration will be conducted by a recognized independent arbitration provider under its consumer rules, and may take place online or by phone.
 
 **You and Charlie's Lamps each waive the right to a jury trial and the right to take part in a class action, class arbitration, or representative action.** Claims may only be brought on an individual basis.
 
@@ -118,7 +118,7 @@ This section does not limit your right to file a dispute with your payment provi
 
 ## 16. Governing Law
 
-These Terms are governed by the laws of the State of [STATE] and applicable U.S. federal law, without regard to conflict-of-law rules. If you live outside the United States, you may also have mandatory consumer rights under your local law. Nothing in these Terms limits those rights.
+These Terms are governed by the laws of the country (and, where applicable, the state or province) in which Charlie's Lamps is based, without regard to conflict-of-law rules. If you live elsewhere, you may also have mandatory consumer rights under your local law. Nothing in these Terms limits those rights.
 
 ## 17. Changes to These Terms
 
@@ -139,4 +139,3 @@ Questions about these Terms? Contact us:
 **Charlie's Lamps**
 Email: pzrezells@gmail.com
 Website: charlieslamps.store
-Address: [BUSINESS ADDRESS]

@@ -54,13 +54,12 @@ contact us within **7 days** of the delivery date at **pzrezells@gmail.com** wit
 
 Orders that never arrive within 45 business days are refunded in full for all customers, with or without Shipping Protection. See our Refund & Return Policy.
 
-[EDIT IF NEEDED: if your Shipping Protection is handled by a third-party app such as Route, Seel, or a similar service, replace this section with that provider's claim process and name the provider here.]
 
 Shipping Protection fees are non-refundable once an order has shipped. Shipping Protection does not cover incorrect addresses entered by the customer, or packages refused or not collected.
 
 ## Customs, Duties, and Taxes (International Orders)
 
-If you are ordering from outside [COUNTRY, e.g. the United States], your order may be subject to import duties, customs fees, or taxes charged by your country. **These charges are your responsibility** and are not included in our prices or shipping fees. Packages refused or abandoned because of customs fees are not eligible for a refund.
+International orders may be subject to import duties, customs fees, or taxes charged by your country. **These charges are your responsibility** and are not included in our prices or shipping fees. Packages refused or abandoned because of customs fees are not eligible for a refund.
 
 ## Shipping Costs
 

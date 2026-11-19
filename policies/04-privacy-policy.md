@@ -37,7 +37,7 @@ We use your information to:
 - **Shopify**, our e-commerce platform, which hosts our store and processes orders
 - **Payment processors**, to process payments and prevent fraud
 - **Production and fulfillment partners and shipping carriers**, to produce and deliver your order (they receive only what they need, such as your name and shipping address)
-- **Marketing and analytics providers** [EDIT: list the ones you use, e.g. Google Analytics, Meta (Facebook/Instagram) Pixel, TikTok Pixel, Klaviyo], to understand how the Site is used and show relevant ads
+- **Marketing and analytics providers** (such as Google and Meta, the owner of Facebook and Instagram), to understand how the Site is used and show relevant ads
 - **Banks, card issuers, and payment providers**, when needed to respond to a payment dispute or chargeback
 - **Law enforcement or authorities**, when required by law or to protect our rights
 
@@ -53,7 +53,7 @@ For more on how Shopify uses your data, see https://www.shopify.com/legal/privac
 
 ## 6. Data Retention
 
-We keep order information for as long as needed to fulfill orders, respond to disputes and chargebacks, and meet tax, accounting, and legal requirements, generally at least [7] years. We delete or anonymize information we no longer need.
+We keep order information for as long as needed to fulfill orders, respond to disputes and chargebacks, and meet tax, accounting, and legal requirements, generally at least 7 years. We delete or anonymize information we no longer need.
 
 ## 7. Your Rights
 
@@ -93,4 +93,3 @@ We may update this Privacy Policy from time to time. The updated version will be
 **Charlie's Lamps**
 Email: pzrezells@gmail.com
 Website: charlieslamps.store
-Address: [BUSINESS ADDRESS]
