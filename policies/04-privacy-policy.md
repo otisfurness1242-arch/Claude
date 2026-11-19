@@ -2,7 +2,7 @@
 
 **Last updated: November 19, 2026**
 
-Charlie's Lamps ("we," "us," or "our") operates **charlieslamps.store** (the "Site"). This Privacy Policy explains how we collect, use, and share your personal information when you visit the Site or buy from us.
+Charlie's Lamps ("we," "us," or "our") operates **charlieslamps.store** (the "Site"). Charlie's Lamps is based in New Zealand. This Privacy Policy explains how we collect, use, store, and share your personal information when you visit the Site or buy from us, in line with the **New Zealand Privacy Act 2020**.
 
 ## 1. Information We Collect
 
@@ -57,20 +57,19 @@ We keep order information for as long as needed to fulfill orders, respond to di
 
 ## 7. Your Rights
 
-Depending on where you live, you may have the right to:
+Under the New Zealand Privacy Act 2020, you have the right to:
 
-- Access the personal information we hold about you
-- Correct inaccurate information
-- Request deletion of your information (subject to legal exceptions, such as records we must keep for tax purposes or active disputes)
-- Opt out of marketing communications
-- Opt out of the "sale" or "sharing" of personal information for targeted advertising, where applicable (for example, under California law)
-- Object to or restrict certain processing, and request a copy of your data (for example, under EU/UK law)
+- Ask for access to the personal information we hold about you
+- Ask us to correct personal information that is wrong
+- Opt out of marketing communications at any time
 
-To make a request, email **pzrezells@gmail.com**. We may need to verify your identity. We will not discriminate against you for exercising your rights.
+You can also ask us to delete your information, subject to records we must keep (for example, for tax purposes or active disputes).
 
-**California residents:** In the past 12 months we have collected the categories of information listed in Section 1 for the purposes in Section 2, and shared them as described in Section 3. Information shared with advertising partners may be considered "sharing" under California law. You may opt out by contacting us.
+To make a request, email **pzrezells@gmail.com**. We may need to verify your identity, and we will respond as soon as we can, and within 20 working days. If you are not happy with how we handle your information, you can complain to the **Office of the Privacy Commissioner** (privacy.org.nz).
 
-**EU/UK residents:** We process your information to perform our contract with you (fulfilling your order), to comply with legal obligations, for our legitimate interests (such as fraud prevention and responding to disputes), and with your consent (such as marketing). You may also complain to your local data protection authority.
+**If you live outside New Zealand**, you may have additional rights under your local privacy laws (for example in the European Union, United Kingdom, Australia, or California, USA), such as the right to receive a copy of your data or to opt out of targeted advertising. Contact us to make a request.
+
+If we ever have a privacy breach that is likely to cause serious harm, we will notify you and the Privacy Commissioner as required by law.
 
 ## 8. Security
 
@@ -82,7 +81,7 @@ The Site is not directed to children under 16, and we do not knowingly collect p
 
 ## 10. International Transfers
 
-Your information may be stored and processed in countries other than your own, including the United States and the countries where our fulfillment partners are located.
+Your information may be stored and processed outside New Zealand, including in Canada and the United States (where Shopify and our payment processors operate) and in the countries where our production and fulfillment partners are located. When we send information overseas, we use providers that we reasonably believe protect it in a way comparable to the New Zealand Privacy Act.
 
 ## 11. Changes to This Policy
 

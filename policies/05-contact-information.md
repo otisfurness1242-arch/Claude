@@ -1,6 +1,7 @@
 # Contact Information
 
 **Trade name:** Charlie's Lamps
+**Based in:** New Zealand. Charlie's Lamps is a business selling goods in trade.
 **Email:** pzrezells@gmail.com
 **Website:** charlieslamps.store
 

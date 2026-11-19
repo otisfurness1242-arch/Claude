@@ -8,7 +8,7 @@ Use this when responding to a dispute in Shopify Payments or PayPal. Respond bef
 - [ ] Customer's IP address, and that it matches their billing/shipping region
 - [ ] Proof the customer checked the agreement box at checkout (screenshot of the checkout with the checkbox and its wording)
 - [ ] Screenshots of your Terms of Service, Refund Policy, and Shipping Policy **as they appeared on the date of the order**
-- [ ] Screenshot of the product page showing the "made to order / 25–45 business days / all sales final" notice
+- [ ] Screenshot of the product page showing the "made to order / 25–45 business days / no change-of-mind refunds" notice
 - [ ] Order confirmation email sent to the customer (shows they were told delivery times, tracking, and the 48-hour cancellation window)
 - [ ] All emails or messages with the customer
 - [ ] Tracking information, **ideally the carrier tracking showing "delivered"** to the address on the order
