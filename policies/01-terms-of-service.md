@@ -28,7 +28,9 @@ We sell night lamps and related products. We try to describe and display our pro
 - Because each lamp is produced individually after you order, small variations in color, size (within a reasonable tolerance), texture, and finish are normal. These are not defects.
 - Product photos may include props or lighting setups that are not included with your purchase.
 
-Minor variations like these are not grounds for a refund, return, or chargeback.
+**AI-generated images.** Some or all of the product images on our Site, and in our advertising and marketing (including social media ads and videos), are created or edited with artificial intelligence (AI). These images show the design, style, and general appearance of the product, but **the real product you receive may look slightly different**, including in color, glow, brightness, texture, finish, proportions, and surroundings.
+
+Minor variations like these, including differences between AI-generated images and the real product, are not grounds for a refund, return, or chargeback.
 
 ## 4. Made-to-Order Products
 

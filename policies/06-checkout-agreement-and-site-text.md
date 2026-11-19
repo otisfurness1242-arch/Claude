@@ -6,13 +6,15 @@ These are short snippets to place on your store. Together with the policies, the
 
 ## 1. Checkout checkbox text (required, unchecked by default)
 
-> ☐ I have read and agree to the **Terms of Service**, **Refund & Return Policy**, and **Shipping Policy**. I understand that my lamp is **made to order**, that **delivery takes 25–45 business days**, that **tracking may not update for around 2 weeks or more while my lamp is in production**, that orders can only be cancelled **within 48 hours**, and that **all sales are final** (no returns, refunds, or exchanges).
+> ☐ I have read and agree to the **Terms of Service**, **Refund & Return Policy**, and **Shipping Policy**. I understand that my lamp is **made to order**, that **delivery takes 25–45 business days**, that **tracking may not update for around 2 weeks or more while my lamp is in production**, that **product images and marketing are AI-generated and the real product may look slightly different**, that orders can only be cancelled **within 48 hours**, and that **all sales are final** (no returns, refunds, or exchanges).
 
 Link each policy name to its page. The box should be **unchecked by default**, and checkout should be blocked until the customer checks it. A pre-checked box is weak evidence.
 
 ## 2. Product page notice (place near the "Add to Cart" button)
 
 > **Made to order.** Each lamp is produced just for you after you order. Please allow **25–45 business days** for delivery. **All sales are final.** Cancellations accepted within 48 hours of purchase.
+>
+> **Images are AI-generated.** Product images are created or edited with AI to show the design. The real lamp may look slightly different in person (color, glow, texture, finish).
 
 ## 3. Cart page notice
 

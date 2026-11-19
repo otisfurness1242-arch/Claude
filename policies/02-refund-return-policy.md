@@ -16,11 +16,16 @@ Each Charlie's Lamps product is produced individually after you place your order
 - Ordering the wrong product, color, size, or quantity
 - Not liking the product after it arrives
 - Minor variations in color, size, finish, or brightness compared to product photos (normal for made-to-order products)
+- Slight differences between the real product and our **AI-generated or AI-edited product images and marketing** (see "Product Images" below)
 - Delivery times that are still within our stated delivery window of **25 to 45 business days**
 - Packages marked as delivered by the carrier that are later lost or stolen (unless you purchased Shipping Protection; see our Shipping Policy)
 - Incorrect or incomplete shipping addresses entered by you at checkout
 
 The only exceptions are described below.
+
+## Product Images
+
+Our store images and marketing (including ads and social media) use **AI-generated or AI-edited images**. They show the design and general look of the lamp, but the real product may look slightly different in person, for example in color, glow, brightness, texture, or finish. **By ordering, you acknowledge this, and slight differences from our images are not eligible for a refund, return, or exchange.**
 
 ## Order Cancellations: 48-Hour Window
 

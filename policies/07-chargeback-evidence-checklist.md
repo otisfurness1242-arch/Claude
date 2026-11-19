@@ -27,7 +27,7 @@ Use this when responding to a dispute in Shopify Payments or PayPal. Respond bef
 
 **"Not as described / defective"**
 - Product page photos and description
-- Policy wording on normal made-to-order variations
+- Policy wording on normal made-to-order variations and the AI-image disclosure (product page notice, checkbox, Refund Policy "Product Images" section)
 - Any photos the customer sent, and your response (e.g. the partial refund offered)
 
 **"Cancelled / credit not processed"**
