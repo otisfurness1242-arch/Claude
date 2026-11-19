@@ -36,7 +36,7 @@ Minor variations like these are not grounds for a refund, return, or chargeback.
 
 - Orders can be cancelled only within **48 hours (2 days)** of purchase. See our Refund & Return Policy.
 - **We do not accept returns or exchanges, and we do not give refunds for change of mind**, including if you no longer want the item, ordered the wrong item, or don't like it after receiving it.
-- Damaged items are handled under our Refund & Return Policy.
+- Items that arrive in damaged packaging are handled under our Refund & Return Policy.
 
 ## 5. Pricing and Availability
 
@@ -55,7 +55,7 @@ Payment is due in full at the time you order. By submitting payment, you authori
 Shipping is covered in detail in our Shipping Policy. In summary:
 
 - Orders typically arrive within **25 to 45 business days** after purchase. This includes production time and shipping time.
-- You will receive an initial tracking number when you order. **This initial number will not show movement during production.** Updates usually appear around **30 business days** after you order, once your item is handed to the shipping carrier. Your tracking number may be replaced with a new carrier tracking number at that point.
+- You will receive a tracking number when your order is confirmed. Tracking will first show that your order is confirmed and that **production has started**. **Because each lamp is made to order, the next tracking update can take around 2 weeks, and sometimes longer during periods of high order volume.** A pause in tracking updates during production is normal and does not mean your order is lost or delayed.
 - Delivery times are estimates, not guarantees, and may be affected by carriers, customs, weather, holidays, or other events outside our control.
 
 ## 8. Risk of Loss

@@ -19,6 +19,11 @@ Use this when responding to a dispute in Shopify Payments or PayPal. Respond bef
 - Carrier tracking showing delivery to the customer's address (this is the most important piece; without it, this dispute is very hard to win)
 - If the dispute was filed before 45 business days had passed: point out the stated delivery window the customer agreed to
 - Note whether the customer bought Shipping Protection
+- If the order truly never arrived after 45 business days, refund it in full (per your policy) instead of fighting the dispute
+
+**Damaged item claims**
+- Whether the customer sent photos of damaged packaging; your policy only covers items that arrive in visibly damaged packaging
+- Your reply and any 50% refund already issued
 
 **"Not as described / defective"**
 - Product page photos and description

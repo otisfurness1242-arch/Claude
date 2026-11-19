@@ -28,17 +28,17 @@ You may cancel your order for a **full refund within 48 hours (2 days) of placin
 
 After 48 hours, your materials have been purchased and production has started, and **your order can no longer be cancelled or refunded.** Cancellation requests are timed by when we receive your email.
 
-## Damaged Items
+## Damaged Packaging on Arrival
 
-If your lamp arrives damaged, we're here to help. To be eligible:
+Every lamp is checked and securely packed before it ships. **If the outer shipping packaging arrives visibly damaged** (for example crushed, torn, punctured, or water-damaged), you may be eligible for a **50% refund** of the item price. To make a claim:
 
-1. **Contact us within 48 hours of delivery** (based on the carrier's delivery date) at **pzrezells@gmail.com** with the subject line **"Damaged Item"** and your order number.
-2. Include **clear photos or a video** showing the damage and the shipping packaging.
+1. **Contact us within 48 hours of delivery** (based on the carrier's delivery date) at **pzrezells@gmail.com** with the subject line **"Damaged Packaging"** and your order number.
+2. Include **clear photos or a video of the damaged packaging as it arrived**, before or while opening it, along with photos of the product.
 3. Keep the item and all packaging until your claim is resolved. **Do not send the item back unless we ask you to.**
 
-If your claim is approved, we will offer **a partial refund of up to 50% of the item price**, depending on how severe the damage is. We decide the amount after reviewing the photos or video you send. If you purchased Shipping Protection, see our Shipping Policy for how damaged items are handled.
+**Claims are only eligible when the shipping packaging itself shows visible damage on arrival.** If the packaging arrived intact and undamaged, the item was protected in transit, and the claim is not eligible for a refund.
 
-Claims sent after 48 hours, or without photo or video evidence, may not be eligible. Damage caused after delivery, by misuse, by an incorrect power source, or by normal wear and tear is not covered.
+Claims sent after 48 hours, or without photo or video evidence of the damaged packaging, are not eligible. Damage caused after delivery, by misuse, by an incorrect power source, or by normal wear and tear is not covered. If you purchased Shipping Protection, see our Shipping Policy for how damaged packages are handled.
 
 ## Wrong Item Received
 
@@ -46,7 +46,7 @@ If you receive a different product than the one you ordered, contact us within *
 
 ## Orders Not Received
 
-If your order has **not arrived within 45 business days** of purchase, contact us at **pzrezells@gmail.com** with your order number. We will investigate with the carrier, and if your package is confirmed lost in transit before delivery, we will send a replacement. Please do not file a dispute with your bank before contacting us. See Section 9 of our Terms of Service.
+If your order has **not arrived within 45 business days** of purchase, contact us at **pzrezells@gmail.com** with your order number. We will investigate with the carrier, and if your order has not been delivered, **we will issue a full refund** to your original payment method. Orders marked as delivered by the carrier are covered under our Shipping Policy, not this section. Please do not file a dispute with your bank before contacting us. See Section 9 of our Terms of Service.
 
 ## Delays Beyond Our Delivery Window
 
@@ -54,7 +54,7 @@ If we learn that we will not be able to ship your order within our stated timefr
 
 ## How Approved Refunds Are Issued
 
-Approved refunds (cancellations and partial refunds) are issued to your **original payment method** within **5 to 10 business days** of approval. Your bank or card issuer may take additional time to post the refund to your account.
+Approved refunds (cancellations, orders not received, and damaged-packaging refunds) are issued to your **original payment method** within **5 to 10 business days** of approval. Your bank or card issuer may take additional time to post the refund to your account.
 
 ## Shipping Protection Fees
 

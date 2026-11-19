@@ -6,7 +6,7 @@ These are short snippets to place on your store. Together with the policies, the
 
 ## 1. Checkout checkbox text (required, unchecked by default)
 
-> ☐ I have read and agree to the **Terms of Service**, **Refund & Return Policy**, and **Shipping Policy**. I understand that my lamp is **made to order**, that **delivery takes 25–45 business days**, that **tracking will not update for roughly the first 30 business days**, that orders can only be cancelled **within 48 hours**, and that **all sales are final** (no returns, refunds, or exchanges).
+> ☐ I have read and agree to the **Terms of Service**, **Refund & Return Policy**, and **Shipping Policy**. I understand that my lamp is **made to order**, that **delivery takes 25–45 business days**, that **tracking may not update for around 2 weeks or more while my lamp is in production**, that orders can only be cancelled **within 48 hours**, and that **all sales are final** (no returns, refunds, or exchanges).
 
 Link each policy name to its page. The box should be **unchecked by default**, and checkout should be blocked until the customer checks it. A pre-checked box is weak evidence.
 
@@ -16,7 +16,7 @@ Link each policy name to its page. The box should be **unchecked by default**, a
 
 ## 3. Cart page notice
 
-> Your lamp is made to order. Estimated delivery: **25–45 business days.** Tracking updates begin once your lamp ships (around 30 business days). **All sales are final.**
+> Your lamp is made to order. Estimated delivery: **25–45 business days.** Tracking shows production has started; the next update can take around 2 weeks while your lamp is made. **All sales are final.**
 
 ## 4. Order confirmation email (add to Shopify's order confirmation template)
 
@@ -24,7 +24,7 @@ Link each policy name to its page. The box should be **unchecked by default**, a
 >
 > **What to expect:**
 > - **Delivery:** 25–45 business days from today.
-> - **Tracking:** your initial tracking number will **not show updates** while your lamp is in production (about 30 business days). Once it ships, you'll get carrier tracking with live updates, which may be a new number.
+> - **Tracking:** your tracking will show that production has started. **The next update can take around 2 weeks or more** while your lamp is made, especially during busy periods. This is normal. Tracking will update again once your lamp ships.
 > - **Cancellations:** you can cancel for a full refund within **48 hours** by emailing pzrezells@gmail.com with the subject "Cancel Order."
 > - **All sales are final** after 48 hours. See our Refund & Return Policy.
 >

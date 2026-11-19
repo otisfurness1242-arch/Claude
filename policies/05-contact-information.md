@@ -13,6 +13,6 @@
 When contacting us about an order, please include your **order number** so we can help you faster.
 
 - **Cancel an order (within 48 hours of purchase):** subject line "Cancel Order"
-- **Damaged item (within 48 hours of delivery):** subject line "Damaged Item," with photos or video
+- **Damaged packaging (within 48 hours of delivery):** subject line "Damaged Packaging," with photos or video of the packaging
 - **Shipping Protection claim:** subject line "Shipping Protection Claim"
-- **Where is my order?** Please review our Shipping Policy first. Delivery takes 25 to 45 business days, and tracking does not update for roughly the first 30 business days.
+- **Where is my order?** Please review our Shipping Policy first. Delivery takes 25 to 45 business days, and while your lamp is in production, tracking can go around 2 weeks or more without a new update.

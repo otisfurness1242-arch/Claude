@@ -21,11 +21,11 @@ These are estimates, not guarantees. Delivery may take longer during holidays an
 
 Please read this so you know what to expect:
 
-1. **At purchase:** you will receive an order confirmation email with an **initial tracking number.**
-2. **During production (up to about 30 business days):** **the initial tracking number will not show any updates or movement.** This is normal. Your lamp is still being made and has not been handed to a carrier yet.
-3. **Once shipped (around 30 business days after purchase):** your order is handed to the shipping carrier, and you will receive tracking that shows live updates. **This carrier tracking number may be different from your initial number.** We will email it to you and it will appear on your order status page.
+1. **When your order is confirmed:** you will receive an email with your **tracking number.** Tracking will show that your order has been confirmed and that **production has started.**
+2. **During production:** **the next tracking update can take around 2 weeks, and sometimes longer** during busy periods with high order volume or a production backlog. Your lamp is being made during this time. **A pause in tracking updates during production is normal and does not mean your order is lost or delayed.**
+3. **Once production is finished:** your lamp is handed to the carrier and tracking will update as it moves toward you. You can follow it using the same tracking number and on your order status page.
 
-If your tracking still shows no updates after **35 business days**, please email us at **pzrezells@gmail.com** with your order number and we will look into it.
+If your tracking has not updated for more than **20 business days**, please email us at **pzrezells@gmail.com** with your order number and we will look into it.
 
 ## Shipping Address
 
@@ -43,15 +43,16 @@ You are responsible for entering a complete and correct shipping address at chec
 
 ## Shipping Protection
 
-Shipping Protection is an optional add-on offered at checkout. Its price is shown clearly in your cart before payment, and **you can remove it before completing your order.**
+Shipping Protection is an **optional** add-on offered at checkout. **It is not added automatically.** You must choose to add it yourself, and its price is shown before you pay.
 
 If you purchased Shipping Protection and your package is:
 
-- **Lost in transit** (tracking stops updating and the package never arrives),
-- **Stolen** after being marked delivered, or
-- **Damaged** in transit,
+- **Stolen or missing** after being marked delivered, or
+- **Delivered in visibly damaged packaging**,
 
-contact us within **7 days** of the delivery date (or, for lost packages, after 45 business days from purchase) at **pzrezells@gmail.com** with your order number and, for damage, photos or video. Once your claim is approved, we will send you **a free replacement.**
+contact us within **7 days** of the delivery date at **pzrezells@gmail.com** with the subject line **"Shipping Protection Claim"**, your order number, and, for damaged packaging, photos or video of the packaging as it arrived. Once your claim is approved, we will send you **a free replacement.**
+
+Orders that never arrive within 45 business days are refunded in full for all customers, with or without Shipping Protection. See our Refund & Return Policy.
 
 [EDIT IF NEEDED: if your Shipping Protection is handled by a third-party app such as Route, Seel, or a similar service, replace this section with that provider's claim process and name the provider here.]
 
